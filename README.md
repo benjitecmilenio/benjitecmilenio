@@ -20,7 +20,7 @@
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=25&duration=4000&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Building+with+Drupal+11;Laravel+%26+Next.js+Enthusiast;Leading+Multicultural+Teams;Ramen+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
       </p>
       <p>
-        CEO at <b>Benha Digital</b>, leading teams across 🇺🇦, 🇮🇳, 🇺🇸, 🇪🇸, and 🇨🇴. I bridge the gap between high-level architecture and modern frontend agility.
+        My Personal Github Account <a href="https://github.com/Luis07Hernandez">Luis07Hernandez<a/>
       </p>
     </td>
     <td width="40%" align="center">
